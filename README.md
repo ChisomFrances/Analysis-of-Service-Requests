@@ -1,10 +1,10 @@
 # Analysis-of-Service-Requests
 
-Overview
+## Overview
 
 A company provides advertising and financial services to businesses and individuals across different provinces. They collect data on every service request received from their customers on a daily basis through an internal system. This data includes the location of the request, the service type, and the request status. As the company expands, they realize that they need to have a better understanding of their clients’ needs and preferences in order to improve their services. To overcome this challenge, the company is looking to hire a data analyst who can help them to process and analyze data from their various data sources, including the location report sheet, service type report sheet, and request status report sheet. The data analyst will be responsible for analyzing and managing the company’s data, as well as providing insights to help the company make better decisions.
 
-Process
+## Process
 
 The dataset used for this analysis contained three reports — locations, request status, and service type. The locations report recorded the request ID, the date the request was made, and the province from which it originated. The service type report included the request ID and the type of service requested, while the request status report included the request ID, the paid amount, the quotation amount, and the request status.
 
@@ -14,9 +14,9 @@ Next, I explored the data to identify any duplicates, null, or missing values in
 
 Finally, I analyzed the data to identify trends within the company and used visualizations to illustrate my findings.
 
-Insights
+## Insights
 
-After analyzing the data, I created an interactive dashboard to provide a visual representation of the analysis and obtained the following insights:
+After analyzing the data, I created an [interactive dashboard] to provide a visual representation of the analysis and obtained the following insights:
 
 Total Received Requests: From November 2011 to September 2022, the company received 1152 requests.
 Average daily requests: The company received an average of 4 requests daily.
@@ -27,7 +27,7 @@ Total Revenue by Region: Among all provinces, the company generated the most rev
 
 ![image](https://github.com/user-attachments/assets/c96fff9c-7f2e-4654-8601-6d62946841db)
 
-Conclusion
+## Conclusion
 
 This analysis provided valuable insights into the company. For instance, it allowed them to identify which provinces were generating the most requests and track trends over time. By doing so, they can determine if certain provinces are experiencing a surge in demand for a particular service and adjust their resources accordingly.
 
