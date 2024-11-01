@@ -16,7 +16,7 @@ Finally, I analyzed the data to identify trends within the company and used visu
 
 ## Insights
 
-After analyzing the data, I created an [interactive dashboard] to provide a visual representation of the analysis and obtained the following insights:
+After analyzing the data, I created an [interactive dashboard](https://app.powerbi.com/view?r=eyJrIjoiYzJkNmEzMDAtY2ZiYy00NDA2LTgxY2MtZmJlM2MxNjkzYTRiIiwidCI6IjlmYzAwNmVhLTg5ZTQtNDRiYS04YWQzLTQ0YTg1ZmEyZjlkNiJ9) to provide a visual representation of the analysis and obtained the following insights:
 
 Total Received Requests: From November 2011 to September 2022, the company received 1152 requests.
 Average daily requests: The company received an average of 4 requests daily.
