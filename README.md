@@ -36,3 +36,7 @@ Furthermore, the analysis provided the company with a better understanding of wh
 Finally, this analysis allowed the company to track the progress of each request and ensure that customers were being served efficiently. By monitoring the requests, they could identify any issues that may arise and address them quickly.
 
 Overall, the insights gained from this analysis will help the company make informed decisions regarding its services, resources, and customer service.
+
+## Relevant Link
+
+[interactive Power BI dashboard](https://app.powerbi.com/view?r=eyJrIjoiYzJkNmEzMDAtY2ZiYy00NDA2LTgxY2MtZmJlM2MxNjkzYTRiIiwidCI6IjlmYzAwNmVhLTg5ZTQtNDRiYS04YWQzLTQ0YTg1ZmEyZjlkNiJ9)
